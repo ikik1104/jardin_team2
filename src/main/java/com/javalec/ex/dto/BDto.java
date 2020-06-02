@@ -3,7 +3,7 @@ package com.javalec.ex.dto;
 import java.sql.Timestamp;
 
 public class BDto {
-
+//
 	public BDto() {
 	}
 
