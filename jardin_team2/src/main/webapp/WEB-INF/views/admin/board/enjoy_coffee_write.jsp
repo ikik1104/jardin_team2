@@ -41,7 +41,7 @@
 	<jsp:include page="../nav/admin_header.jsp"/>
 	<jsp:include page="../nav/board_nav.jsp"/>
 	<section>
-		<h1>enjoy Coffee 입력</h1><!-- <<<<< 20.06.02 여기에 추가했습니다 >>>>> -->
+		<h1>enjoy Coffee 입력</h1><!-- <<<<< 20.06.02 여기에 추가했습니다 (홍또추) >>>>> -->
 			<form action="" name="inputform" method="get">
 				<div id="input_form">
 					<table border="1">
